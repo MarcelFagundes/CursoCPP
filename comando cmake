@@ -1,0 +1,10 @@
+
+
+cmake -S src -B build 
+
+cmake --build build
+
+cmake -S src -B build -G "Ninja"
+
+CXX=clang++ cmake -S src -B build -G "Ninja"
+

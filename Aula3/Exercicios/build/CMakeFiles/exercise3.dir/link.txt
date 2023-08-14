@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exercise3.dir/main.cpp.o -o exercise3  school/libschool.a 

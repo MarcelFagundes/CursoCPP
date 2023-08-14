@@ -1,0 +1,6 @@
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/CMakeFiles/exercise3.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/CMakeFiles/rebuild_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/school/CMakeFiles/school.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/school/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/Aula3/Exercicios/build/school/CMakeFiles/rebuild_cache.dir

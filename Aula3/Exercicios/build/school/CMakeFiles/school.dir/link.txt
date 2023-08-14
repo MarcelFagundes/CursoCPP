@@ -1,0 +1,2 @@
+/usr/bin/ar qc libschool.a CMakeFiles/school.dir/functions.cpp.o CMakeFiles/school.dir/student.cpp.o
+/usr/bin/ranlib libschool.a

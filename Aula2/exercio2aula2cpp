@@ -1,0 +1,15 @@
+#include <iostream>
+#include <string>
+
+int
+
+
+int main()
+{
+    using namespace std::string_literals;
+
+    const auto word = "evidentemente"s;
+    const auto letter = 'e';
+    std::cout << "number of " << letter << " in " << word << ": "
+              << count_occurences(letter, word);
+}
