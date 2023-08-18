@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations",
+  "command": "/usr/bin/c++  -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations\" -g -o CMakeFiles/operations.dir/expression.o -c \"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/expression.cpp\"",
+  "file": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/expression.cpp"
+},
+{
+  "directory": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations",
+  "command": "/usr/bin/c++  -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations\" -g -o CMakeFiles/operations.dir/operations.o -c \"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/operations.cpp\"",
+  "file": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/operations.cpp"
+},
+{
+  "directory": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/tests",
+  "command": "/usr/bin/c++  -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations\" -g -o CMakeFiles/test_operations.dir/main.o -c \"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/tests/main.cpp\"",
+  "file": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations/tests/main.cpp"
+},
+{
+  "directory": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/parser",
+  "command": "/usr/bin/c++  -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/parser\" -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations\" -g -o CMakeFiles/parser.dir/parser.o -c \"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/parser/parser.cpp\"",
+  "file": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/parser/parser.cpp"
+},
+{
+  "directory": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/app",
+  "command": "/usr/bin/c++  -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/operations\" -I\"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/parser\" -g -o CMakeFiles/main.dir/main.o -c \"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/app/main.cpp\"",
+  "file": "/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/app/main.cpp"
+}
+]

@@ -1,0 +1,12 @@
+cmake -B build -S src -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+
+cmake --build build --verbose
+
+Nova estrutura:
+
+cmake -B build -S . -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+
+Após a configuração do Conan
+cmake -B build -S . -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=Debug
+
+

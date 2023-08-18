@@ -1,0 +1,14 @@
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/CMakeFiles/rebuild_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/CMakeFiles/operations.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/CMakeFiles/rebuild_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/tests/CMakeFiles/test_operations.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/tests/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations/tests/CMakeFiles/rebuild_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/parser/CMakeFiles/parser.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/parser/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/parser/CMakeFiles/rebuild_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/app/CMakeFiles/main.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/app/CMakeFiles/edit_cache.dir
+/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/app/CMakeFiles/rebuild_cache.dir

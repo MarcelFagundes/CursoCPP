@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/test_operations.dir/main.o -o test_operations   -L"/home/marcel/Documentos/CPP - CPP ministrado em 2021 em parceria com o Calico - UFSC/CursoCPP/Aula-extra1/calc-base/src/build/operations"  -lproject_options ../liboperations.a -lCONAN_PKG::catch2 -lproject_options 

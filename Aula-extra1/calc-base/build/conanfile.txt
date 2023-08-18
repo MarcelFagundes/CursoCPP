@@ -1,0 +1,4 @@
+[requires]
+Catch2/2.6.0@catchorg/stable
+[generators]
+cmake
